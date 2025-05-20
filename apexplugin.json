@@ -1,0 +1,49 @@
+{
+  "name": "OGL on APEX",
+  "version": "1.0",
+  "description": "'OGL on APEX' is the Oracle APEX Plugin helps in setting up OGL on Oracle APEX Applications.",
+  "keywords": [
+    "guide",
+    "tour",
+    "ogl",
+    "learning"
+  ],
+  "homepage": "https://github.com/VigneZ/ogl-on-apex/",
+  "bugs": {
+    "url": "https://github.com/VigneZ/ogl-on-apex/issues",
+    "email": "vigneshwaran.gopalan@gmail.com"
+  },
+  "license": "None",
+  "commercial": "No",
+  "author": {
+    "name": "Vigneshwaran Gopalan",
+    "email": "vigneshwaran.gopalan@gmail.com",
+    "url": "https://www.linkedin.com/in/vigneshwarangopalan/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VigneZ/ogl-on-apex.git"
+  },
+  "oracle": {
+    "versions": [
+      "18c",
+      "19c",
+      "21c",
+      "23c",
+      "23ai"
+    ],
+    "apex": {
+      "versions": [
+        "23.2",
+        "24.1",
+        "24.2"
+      ],
+      "plugin": {
+        "internalName": "ORACLE.OGL.EMBED.APEX",
+        "type": "dynamic action",
+        "demo": "https://apex.oracle.com/pls/apex/r/ou_ogl/opportunities/home",
+        "previewImage": ""
+      }
+    }
+  }
+}

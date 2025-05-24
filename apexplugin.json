@@ -41,7 +41,7 @@
         "internalName": "ORACLE.OGL.EMBED.APEX",
         "type": "dynamic action",
         "demo": "https://apex.oracle.com/pls/apex/r/ou_ogl/opportunities/home",
-        "previewImage": "https://github.com/VigneZ/ogl-on-apex/blob/main/OGL_On_APEX_Plugin.png"
+        "previewImage": "https://github.com/VigneZ/ogl-on-apex/blob/main/OGLOnApex.gif"
       }
     }
   }

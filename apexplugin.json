@@ -8,7 +8,7 @@
     "ogl",
     "learning"
   ],
-  "homepage": "https://www.oracle.com/in/education/guided-learning/",
+  "homepage": "https://www.oracle.com/in/education/guided-learning",
   "bugs": {
     "url": "https://github.com/VigneZ/ogl-on-apex/issues",
     "email": "vigneshwaran.gopalan@gmail.com"
@@ -18,7 +18,7 @@
   "author": {
     "name": "Vigneshwaran Gopalan",
     "email": "vigneshwaran.gopalan@gmail.com"
-    "url":"https://www.linkedin.com/in/vigneshwarangopalan/"
+    "url":"https://www.linkedin.com/in/vigneshwarangopalan"
   },
   "repository": {
     "type": "git",
@@ -42,7 +42,7 @@
         "internalName": "ORACLE.OGL.EMBED.APEX",
         "type": "dynamic action",
         "demo": "https://apex.oracle.com/pls/apex/r/ou_ogl/opportunities/home",
-        "previewImage": "https://github.com/VigneZ/ogl-on-apex/blob/main/OGLOnApex.gif"
+        "previewImage": "https://raw.githubusercontent.com/VigneZ/ogl-on-apex/refs/heads/main/OGLOnApex.gif"
       }
     }
   }
